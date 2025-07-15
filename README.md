@@ -23,3 +23,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/sebastiangracia/rusty_alpha_gui.git
 cd rusty_alpha_gui
+```
+
+## Build and run the app:
+```cargo run```
